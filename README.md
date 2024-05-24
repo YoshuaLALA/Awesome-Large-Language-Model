@@ -1,6 +1,6 @@
 # OpenAI GPT
 
-| MODEL         | Papar            | Release Date  |
+| MODEL         | PAPER            | RELEASE DATE  |
 | ------------- |-----------|-----------|
 | GPT-4 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) |  2023-04 |
 | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) | 2022-03 |
@@ -11,7 +11,7 @@
 
 # Meta LLaMA
 
-| MODEL         | Papar                | Release Date  |
+| MODEL         | PAPER                | RELEASE DATE  |
 | ------------- |-----------|-----------|
 | LLaMA 3 |  | 2024-04 |
 | LLaMA 2 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288) | 2023-07 |
@@ -19,9 +19,14 @@
 
 # Google PaLM
 
-| MODEL         | Papar                | Release Date  |
+| MODEL         | PAPER                | RELEASE DATE  |
 | ------------- |-----------|-----------|
 | PaLM 2 | [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) | 2023-05 |
 | PaLM-E | [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf) | 2023-03 |
 | T5 | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416) | 2022-10 |
 | PaLM | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311) | 2022-04 |
+
+# Integration Frameworks
+
+* [LangChain](https://github.com/langchain-ai/langchain)
+* [Dify](https://github.com/langgenius/dify)
